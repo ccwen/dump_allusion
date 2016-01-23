@@ -1,0 +1,24 @@
+{
+  "name": "dump_allusion",
+  "version": "1.0.0",
+  "description": "convert content from http://cls.hs.yzu.edu.tw/ORIG/ to json format",
+  "main": "invert.js",
+  "dependencies": {
+    "iconv-lite": "^0.4.13",
+    "request": "^2.67.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yapcheahshen/dump_allusion.git"
+  },
+  "author": "yapcheahshen@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yapcheahshen/dump_allusion/issues"
+  },
+  "homepage": "https://github.com/yapcheahshen/dump_allusion#readme"
+}
